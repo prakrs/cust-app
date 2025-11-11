@@ -3,12 +3,12 @@ entries:
   cust-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-11T15:31:40.2214427-08:00"
+    created: "2025-11-11T15:40:17.4691453-08:00"
     description: Helm chart for cust-frontend + cust-backend
-    digest: 49fadf9dc89c3c0a4d71427817eda0ae6ce574c7c14c8f458219a6b20d52551d
+    digest: 420e179b03fc427a1b6eb9f8720ba36cdce6c81ff79ed2d980fea1c66c077a7b
     name: cust-app
     type: application
     urls:
     - https://raw.githubusercontent.com/prakrs/cust-app/main/cust-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-11T15:31:40.2214427-08:00"
+generated: "2025-11-11T15:40:17.4685702-08:00"
